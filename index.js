@@ -12,8 +12,8 @@ let pessoas = {
     datas:[
         {
             id:Date.now(),
-            nome:'Daniele',
-            aniversario:'11-04-2002'
+            nome:'',
+            aniversario:''
         },
     ],
 
