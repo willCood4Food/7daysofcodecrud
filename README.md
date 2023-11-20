@@ -1,6 +1,6 @@
 # 7daysofcodecrud
-aluno: Anntonio Felipe de paula Neu 
-
-aluno: João Vitor Lima de Sousa
-ADS 1º semestre, Noturno 
-disciplina: Padões da Web
+Aluno: Antônio Felipe de Paula Neu 
+Aluno: João ViCtor Lima de Sousa
+Aluno: Robert Luís 
+ADS 1º semestre - Noturno 
+Disciplina: Padrões WEB
