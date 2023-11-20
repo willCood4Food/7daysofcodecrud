@@ -1,6 +1,6 @@
 # 7daysofcodecrud
 
-Aluno: Antônio Felipe de Paula Neu 
+Aluno: Antônio Felipe de Paula 
 
 Aluno: João Victor Lima de Sousa
 
